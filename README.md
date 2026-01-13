@@ -32,7 +32,7 @@ The PCAP file containing the traffic traces used in the experiments is available
 
 The figure below illustrates the complete experimental pipeline, including traffic generation, data collection, model training, model conversion, and integration into both user space and kernel space environments.
 
-![Experimental Pipeline](Figures/pipeline.pdf)
+![Experimental Pipeline](Figures/pipeline.png)
 
 Further implementation and evaluation details are provided in the paper.
 
