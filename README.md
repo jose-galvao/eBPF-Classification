@@ -2,7 +2,7 @@
 
 This repository contains the source code and experimental artifacts related to the paper **“Leveraging eBPF/XDP for Real-Time Machine Learning Traffic Classification in 5G User Plane Networks.”**
 
-The main objective of this work is to implement a **Random Forest traffic classifier inside a 5G User Plane Function (UPF)**, leveraging **eBPF/XDP** to enable traffic classification within a **privileged kernel space environment**.
+The main objective of this work is to implement a **Random Forest traffic classifier inside a 5G User Plane Function (UPF)**, leveraging **eBPF/XDP** to enable traffic classification within a **privileged kernel space environment**, while proposing an alternative to traditional approaches that typically introduce high CPU overhead and increased latency due to repetitive context switching and data copying across the network stack.
 
 The proposed solution supports traffic classification in **two execution environments: Kernel space and User space**
 
