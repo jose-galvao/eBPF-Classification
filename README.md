@@ -29,7 +29,7 @@ The repository is organized according to the classification environment:
 - README.md
 
 
-The PCAP file containing the traffic traces used in the experiments is available at  
+Data file is available at  
 **[google drive](https://drive.google.com/file/d/1KMSHgJQ_KaEnn4_jkOhRremd2-w9yVn1/view?usp=sharing)**
 
 ---
